@@ -4,3 +4,10 @@
 *.jar
 *.war
 *.ear
+
+/minecraft/argo
+/minecraft/net
+/minecraft/org
+/minecraft/Start.java
+/minecraft_server/net
+/minecraft_server/org
